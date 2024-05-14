@@ -1,5 +1,7 @@
+import Contact from "./components/Contact"
 import Experience from "./components/Experience"
 import Feautured from "./components/Feautured"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Home from "./components/Home"
 import Navbar from "./components/Navbar"
@@ -15,6 +17,8 @@ function App() {
       <Hero/>
       <Feautured/>
       <Experience/>
+      <Contact/>
+      <Footer/>
     </div>
   )
 }

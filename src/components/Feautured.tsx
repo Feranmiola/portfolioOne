@@ -10,7 +10,7 @@ const Feautured = () => {
                 />
                 <img
                 src='./assets/arrow2.svg'
-                className='xlg:ml-[10rem] max-md:transform max-md:rotate-[4deg]'
+                className='xlg:ml-[10rem] max-md:transform max-md:rotate-[44deg] pb-5'
                 />
                 <p className='font-inter text-[16px] md:text-[24px]'>Have designed</p>
                 <p className='font-inter text-[16px] md:text-[24px]'>more than 20 projects</p>
